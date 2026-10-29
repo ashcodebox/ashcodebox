@@ -1,6 +1,6 @@
 # Hi, I'm Aswin A S 👋
 
-### Aspiring Data Analyst | Python Programmer | Big Data Enthusiast
+### Aspiring Data Analyst | Python Programmer
 
 I'm a student passionate about programming, data analytics, machine learning, and open-source development. I enjoy building projects and learning new technologies through hands-on practice.
 
@@ -9,7 +9,7 @@ I'm a student passionate about programming, data analytics, machine learning, an
 * 🎓 Interested in Data Analytics and Computer Science
 * 🐍 Learning Python and machine learning
 * 📊 Exploring data visualization and big data technologies
-* 💻 Building projects using Python, Hadoop, and PySpark
+* 💻 Building projects using Python
 * 🌱 Interested in contributing to open-source projects
 
 ## Skills & Technologies
