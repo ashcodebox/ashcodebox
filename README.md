@@ -22,6 +22,6 @@ I'm a student passionate about programming, data analytics, machine learning, an
 
 ## Connect With Me
 
-* **LinkedIn:** https://linkedin.com/in/aswinas6
+* **LinkedIn:** www.linkedin.com/in/i-am-aswin
   
 *Always learning, building, and improving.* 🚀
