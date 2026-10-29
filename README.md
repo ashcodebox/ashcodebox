@@ -1,4 +1,4 @@
-# Hi, I'm Aswin A S 👋
+# Hi, I'm Aswin 👋
 
 ### Aspiring Data Analyst | Python Programmer
 
