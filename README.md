@@ -15,10 +15,10 @@ I'm a student passionate about programming, data analytics, machine learning, an
 ## Skills & Technologies
 
 * **Languages:** Python, SQL, C
-* **Data Analytics:** Pandas, NumPy, Excel, Tableau
+* **Data Analytics:** Pandas, NumPy, Excel
 * **Machine Learning:** Scikit-learn, classification algorithms
 * **Big Data:** Hadoop, Apache Spark, PySpark
-* **Tools:** Git, GitHub, VS Code, Jupyter Notebook
+* **Tools:** Git, GitHub, VS Code
 
 ## Connect With Me
 
