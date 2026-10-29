@@ -22,7 +22,6 @@ I'm a student passionate about programming, data analytics, machine learning, an
 
 ## Connect With Me
 
-* **GitHub:** https://github.com/YOUR-USERNAME
 * **LinkedIn:** https://linkedin.com/in/aswinas6
   
 *Always learning, building, and improving.* 🚀
